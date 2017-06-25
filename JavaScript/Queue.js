@@ -1,5 +1,6 @@
-/* Library created by Dayu Wang on 06/20/17. */
+/** Library created by Dayu Wang (dwk89@mail.umkc.edu) on 06/20/17. */
 
+/** Regular Queue */
 function Queue() {
     function QueueNode(data) {
         this.val = data;

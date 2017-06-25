@@ -1,5 +1,6 @@
 /** Library created by Dayu Wang (dwk89@mail.umkc.edu) on 06/22/17. */
 
+/** Regular Stack */
 function Stack() {
     function StackNode(data) {
         this.val = data;
